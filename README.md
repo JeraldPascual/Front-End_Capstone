@@ -7,7 +7,7 @@
 
 > **FlyRank Capstone Portfolio Project**
 > *Author:* **Jerald A. Pascual**
-> *Live Application:* [specforge-ai.vercel.app](https://specforge-ai.vercel.app)
+> *Live Application:* [specforge-ai-sepia.vercel.app](https://specforge-ai-sepia.vercel.app)
 > *Repository:* [github.com/JeraldPascual/Front-End_Capstone](https://github.com/JeraldPascual/Front-End_Capstone)
 
 ---
