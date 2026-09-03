@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-sans: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #090d16;
+    color: #f1f5f9;
+    min-height: 100vh;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* High-visibility WCAG 2.1 AA focus ring */
+  *:focus-visible {
+    outline: 2px solid #6366f1;
+    outline-offset: 2px;
+  }
+}
+
